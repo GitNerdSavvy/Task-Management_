@@ -13,5 +13,9 @@ In summary, my Task Manager application, built using the MERN stack, offers a us
 
 
 
+https://github.com/GitNerdSavvy/Task-Management_/assets/136702091/5bc45933-f117-4481-9268-689d4ec543a0
+
+
+
 
 
