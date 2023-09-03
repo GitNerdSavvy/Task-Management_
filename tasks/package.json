@@ -2,7 +2,7 @@
   "name": "practicebackend",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
     "build": "npm i",
     "start": "npm start",
